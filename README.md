@@ -240,7 +240,7 @@ We applied 10-folds cross validation to estimate the skills of our machine learn
 --------------------------------
 After training and validation of our models we tested all our models on testing data and we found the results are like: 
 
-![image](https://drive.google.com/uc?export=view&id=1HDYzwdDdvth5XPVnJeYgs3bS1aIXg_7n)
+![image](https://drive.google.com/uc?export=view&id=1NpSZjAeM9xAQ_rZwSeP4UdChJTaTYenG)
 
 - **BERT as a stand-alone classifier**
     - BERT can be used as the main classifier by finetuning the model on our data set.
